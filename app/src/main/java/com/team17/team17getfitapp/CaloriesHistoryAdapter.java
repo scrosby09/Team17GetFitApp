@@ -1,4 +1,4 @@
 package com.team17.team17getfitapp;
 
-public class Exercise {
+public class CaloriesHistoryAdapter {
 }

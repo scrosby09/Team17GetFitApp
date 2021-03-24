@@ -17,6 +17,21 @@
             </intent-filter>
         </activity>
         <activity android:name=".Login"/>
+        <activity android:name=".Register" />
+        <activity android:name=".UserProfile" />
+        <activity android:name=".About"></activity>
+        <activity
+            android:name=".FoodTracking"
+            android:label= "Food Tracker"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ExerciseCount"
+            android:label="Exercise Counter"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CaloriesHistory"
+            android:label="Calorie History"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
