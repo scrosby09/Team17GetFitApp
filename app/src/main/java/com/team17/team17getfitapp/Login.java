@@ -23,4 +23,11 @@ import com.team17.team17getfitapp.UserModel;
 import com.team17.team17getfitapp.SessionManager;
 
 public class Login extends AppCompatActivity implements View.OnClickListener {
+    private FirebaseAuth mAuth;
+    private EditText emailEditText, passwordEditText;
+    private FirebaseAuth.AuthStateListener mauthstatelistner;
+    private DatabaseReference mFirebaseDatabase;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
 }
