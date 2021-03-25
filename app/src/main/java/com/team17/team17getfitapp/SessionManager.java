@@ -1,11 +1,11 @@
 package com.team17.team17getfitapp;
 
+import com.team17.team17getfitapp.LoginActivity;
+
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.util.Base64;
-
-import com.team17.team17getfitapp.LoginActivity;
 
 import java.util.HashMap;
 
