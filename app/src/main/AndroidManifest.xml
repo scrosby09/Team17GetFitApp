@@ -16,20 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Login"/>
-        <activity android:name=".Register" />
-        <activity android:name=".UserProfile" />
-        <activity android:name=".About"></activity>
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".UserProfileActivity" />
+        <activity android:name=".AboutActivity"></activity>
         <activity
-            android:name=".FoodTracking"
+            android:name=".FoodTrackingFragment"
             android:label= "Food Tracker"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".ExerciseCount"
+            android:name=".ExerciseFragment"
             android:label="Exercise Counter"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".CaloriesHistory"
+            android:name=".UserHistoryActivity"
             android:label="Calorie History"
             android:parentActivityName=".MainActivity" />
     </application>

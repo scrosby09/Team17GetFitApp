@@ -1,4 +1,4 @@
 package com.team17.team17getfitapp;
 
-public class ExerciseCount {
+public class UserProfileActivity {
 }
