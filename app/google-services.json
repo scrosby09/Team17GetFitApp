@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779728084496",
+    "project_id": "team17getfit",
+    "storage_bucket": "team17getfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779728084496:android:57ffe201a5c97885f7b495",
+        "android_client_info": {
+          "package_name": "com.team17.team17getfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779728084496-v3haci7vnk4um8t28k14og7v3v2d94kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHYVjMnnfAlqEliLOsh309J9EF8VsoAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779728084496-v3haci7vnk4um8t28k14og7v3v2d94kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
