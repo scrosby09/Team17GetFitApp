@@ -1,5 +1,7 @@
 package com.team17.team17getfitapp;
 
+import com.team17.*;
+
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;

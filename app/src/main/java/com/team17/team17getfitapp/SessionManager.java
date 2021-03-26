@@ -1,6 +1,6 @@
 package com.team17.team17getfitapp;
 
-import com.team17.team17getfitapp.LoginActivity;
+import com.team17.*;
 
 import android.content.Context;
 import android.content.Intent;

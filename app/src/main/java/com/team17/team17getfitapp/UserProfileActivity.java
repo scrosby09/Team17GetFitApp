@@ -1,4 +1,5 @@
 package com.team17.team17getfitapp;
+import com.team17.*;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

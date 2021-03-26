@@ -1,4 +1,5 @@
 package com.team17.team17getfitapp;
+import com.team17.*;
 
 import java.util.List;
 
