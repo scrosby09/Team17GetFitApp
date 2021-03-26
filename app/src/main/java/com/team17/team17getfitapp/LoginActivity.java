@@ -1,6 +1,8 @@
 package com.team17.team17getfitapp;
 
-import com.team17.*;
+import com.team17.team17getfitapp.UserProfiles;
+import com.team17.team17getfitapp.R;
+import com.team17.team17getfitapp.SessionManager;
 
 import android.content.Intent;
 import android.os.Bundle;
