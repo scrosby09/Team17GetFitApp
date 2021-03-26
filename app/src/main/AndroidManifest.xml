@@ -21,7 +21,7 @@
         <activity android:name=".UserProfileActivity" />
         <activity android:name=".AboutActivity"></activity>
         <activity
-            android:name=".FoodTrackingFragment"
+            android:name=".FoodTracking"
             android:label= "Food Tracker"
             android:parentActivityName=".MainActivity" />
         <activity
